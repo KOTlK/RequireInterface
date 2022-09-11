@@ -22,6 +22,7 @@ namespace RequireInterface.Editor
                 if (interfaces.Contains(type) == false)
                 {
                     Debug.LogError($"{property.name} should implement {requiredAttribute.Interface.Name}");
+                    objectReference = null;
                 }
             }
             
