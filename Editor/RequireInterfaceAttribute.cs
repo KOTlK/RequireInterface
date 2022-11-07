@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace RequireInterface
+namespace RequireInterface.Editor
 {
     public class RequireInterfaceAttribute : PropertyAttribute
     {
