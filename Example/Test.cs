@@ -1,7 +1,7 @@
-﻿using RequireInterface.Editor;
+﻿using Kotik.RequireInterface;
 using UnityEngine;
 
-namespace RequireInterface
+namespace Kotik.Example
 {
     public class Test : MonoBehaviour
     {

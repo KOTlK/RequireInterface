@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine;
 
-namespace RequireInterface.Editor
+namespace Kotik.RequireInterface
 {
     public class RequireInterfaceAttribute : PropertyAttribute
     {

@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RequireInterface
+namespace Kotik.Example
 {
     public class SomeScript : MonoBehaviour, ISomeInterface
     {

@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace RequireInterface.Editor
+namespace Kotik.RequireInterface
 {
     [CustomPropertyDrawer(typeof(RequireInterfaceAttribute))]
     public class InterfaceDrawer : PropertyDrawer

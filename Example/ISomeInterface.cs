@@ -1,4 +1,4 @@
-﻿namespace RequireInterface
+﻿namespace Kotik.Example
 {
     public interface ISomeInterface
     {
